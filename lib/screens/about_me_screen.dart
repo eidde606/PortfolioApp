@@ -40,7 +40,7 @@ class AboutMe extends StatelessWidget {
                 height: 10,
               ),
               const Text(
-                "I'm Eddie Nazario, a Junior React Developer based in Hopewell, VA. With a strong background in Information Technology and a foundation in Respiratory Therapy, I bring a unique blend of skills and adaptability to web development.I've honed my development expertise at Vet Tech IT Services LLC, collaborating in agile environments. Proficient in React, JavaScript, CSS, HTML5, Flutter, Bootstrap, ChakraUI, and Github. I'm passionate about creating user-friendly web applications and continually expanding my skill set. Fluent in both English and Spanish, I thrive in diverse communication settings.Let's connect and explore exciting web development opportunities together!",
+                "I'm Eddie Nazario, a Junior React Developer based in Hopewell, VA. With a strong background in Information Technology and a foundation in Respiratory Therapy, I bring a unique blend of skills and adaptability to web development. I've honed my development expertise at Vet Tech IT Services LLC, collaborating in agile environments. Proficient in React, JavaScript, CSS, HTML5, Flutter, Bootstrap, ChakraUI, and Github. I'm passionate about creating user-friendly web applications and continually expanding my skill set. Fluent in both English and Spanish, I thrive in diverse communication settings.Let's connect and explore exciting web development opportunities together!",
                 style: TextStyle(
                   color: Colors.white,
                   height: 1.5,
