@@ -75,6 +75,12 @@ class AboutMe extends StatelessWidget {
               ),
               const Text(
                 "Freelance React Developer / Andrey's ProLandscaping & Tree Services LLC / Aug 2023 - Jan 2024 / Midlothian, VA",
+                style: TextStyle(
+                  color: Colors.white,
+                ),
+              ),
+              const SizedBox(
+                height: 10,
               ),
               const Text(
                 'Skills',
